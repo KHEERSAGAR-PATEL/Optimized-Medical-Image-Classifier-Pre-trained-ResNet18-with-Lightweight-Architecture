@@ -4,9 +4,6 @@ Here's an enhanced, structured version for a GitHub README that emphasizes clari
 
 ---
 
-# Efficient Medical Image Classification using ResNet18 and Lightweight Neural Network
-
-This project presents a medical image classification pipeline that combines a pre-trained ResNet18 model for feature extraction with a custom lightweight neural network for binary classification. The solution is optimized for high-resolution medical images, aiming for accurate classification with minimal computational overhead.
 
 ## Key Components
 
